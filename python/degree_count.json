@@ -1,0 +1,30 @@
+{
+  "Master Deux": {
+    "Teacher": 3,
+    "Alumni": 147,
+    "Student": 4
+  },
+  "Master Un": {
+    "Teacher": 4,
+    "Alumni": 169,
+    "Student": 5
+  },
+  "Master Trois": {
+    "Teacher": 1,
+    "Alumni": 158,
+    "Student": 2
+  },
+  "Master Quatre": {
+    "Teacher": 2,
+    "Alumni": 171,
+    "Student": 2
+  },
+  "Master Six": {
+    "Alumni": 150,
+    "Student": 4
+  },
+  "Master Cinq": {
+    "Alumni": 175,
+    "Student": 3
+  }
+}
